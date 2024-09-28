@@ -4,7 +4,13 @@
   "description": "",
   "author": "",
   "private": true,
-  "license": "UNLICENSED",
+  "license": {
+    "name": "magic-gathering-api",
+    "version": "1.0.0",
+    "description": "Aplicação para gerenciamento de baralhos de Magic: The Gathering",
+    "main": "main.ts",
+    "license": "MIT"
+  },
   "scripts": {
     "build": "nest build",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
