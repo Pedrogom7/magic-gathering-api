@@ -66,7 +66,7 @@ Projeto realizado com suporte do framework Nest.js, licenciado sob a licença MI
 
 ## Contribuidores
 
-Este projeto foi desenvolvido por Pedro Gomes (RA: 22087525-2) e Eduardo Voltatone (). Cada membro contribuiu com commits relevantes para a implementação de funcionalidades.
+Este projeto foi desenvolvido por Pedro Gomes (RA: 22087525-2) e Eduardo Voltatone (RA: 22207439-2). Cada membro contribuiu com commits relevantes para a implementação de funcionalidades.
 
 ## Licença
 
